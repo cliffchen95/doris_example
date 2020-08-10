@@ -5,7 +5,7 @@ div.user {
 }
 div.main {
     width: 80%;
-    margin: 1px auto;
+    margin: 1px 10%;
     display: flex;
 }
 div.menu {
