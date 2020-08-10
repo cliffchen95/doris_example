@@ -1,18 +1,23 @@
-.carousel-inner {
-    padding: 0 20px;
+div.user {
+    width: 80%;
+    height: 2em;
+    margin: 3px auto;
 }
-
-.menu {
+div.main {
+    width: 80%;
+    margin: 1px auto;
     display: flex;
-    justify-content: space-between;
-    background-color: #bad7df;
-    margin: 10px 20px;
 }
-
-ol, ul {
-    list-style: none;
+div.menu {
+    width: 20%;
 }
-
-#title {
-    text-align: center;
+div.content {
+    width: 80%;
+}
+div.carousel-inner {
+    padding: 5px 0;
+}
+div.footer {
+    background-color: darkred;
+    color: white;
 }
